@@ -1,0 +1,9 @@
+.link {
+    text-decoration: none;
+    color: $color-spanish-gray;
+    font-size: $font-size-md;
+  
+    &:hover {
+      color: $color-black;
+    }
+  }
